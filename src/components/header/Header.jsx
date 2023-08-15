@@ -1,4 +1,5 @@
 import React from 'react'
+import {BiMenuAltRight} from 'react-icons/bi'
 import './Header.css'
 
 
@@ -17,6 +18,9 @@ function Header() {
                     <a href="">Contact</a>
                 </button>
             </div>
+        </div>
+        <div className="menu-icon">
+          <BiMenuAltRight size={30} />
         </div>
     </section>
   )
