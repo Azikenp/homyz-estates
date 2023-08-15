@@ -55,7 +55,7 @@
     font-size: 1.1rem;
 }
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width:824px) {
     .v-container{
         padding-right: 2rem;
         padding-left: 2rem;

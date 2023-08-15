@@ -63,7 +63,7 @@
     scale: 0.8;
 }
 
-@media screen  and (max-width: 1024px) {
+@media screen  and (max-width: 724px) {
     .c-container{
         padding-left: 0;
         padding-right: 0;
